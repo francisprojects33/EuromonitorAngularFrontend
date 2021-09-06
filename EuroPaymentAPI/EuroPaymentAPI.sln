@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuroPaymentAPI", "EuroPaymentAPI\EuroPaymentAPI.csproj", "{7EAAE5F8-4A61-4C27-83F2-3043C7F3E92E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EAAE5F8-4A61-4C27-83F2-3043C7F3E92E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAAE5F8-4A61-4C27-83F2-3043C7F3E92E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAAE5F8-4A61-4C27-83F2-3043C7F3E92E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAAE5F8-4A61-4C27-83F2-3043C7F3E92E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77B1E39-CBFF-4D4B-9B7F-39A24DDECF90}
+	EndGlobalSection
+EndGlobal
